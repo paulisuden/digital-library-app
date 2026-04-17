@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mc_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/eliminar"
+        />
+    <item
+        android:id="@+id/mc_qr"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/generar_qr"
+        />
+</menu>

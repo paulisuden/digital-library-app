@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="primary">#74437a</color>
+    <!-- BACKGROUND -->
+    <color name="splash_background">#F5F0FF</color>
+    <!-- TEXTOS -->
+    <color name="splash_text_primary">#3e3762</color>
+    <color name="splash_text_secondary">#74437a</color>
+    <color name="splash_text_hint">#bf588f</color>
+    <!-- ACENTOS E INTERACCIÓN -->
+    <color name="surface">#FFFFFF</color>
+    <color name="accent">#ff84a9</color>
+    <color name="accent_light">#ffc1bf</color>
+</resources>
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="primary">#FFFFFFFF</color>
+
+    <color name="splash_background">#0F1623</color>
+    <color name="splash_text_primary">#E8DFC8</color>
+    <color name="splash_text_secondary">#7A8FA8</color>
+    <color name="splash_text_hint">#3B5A7A</color>
+</resources>
+-->

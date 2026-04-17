@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BIBLIOTECOM</string>
+
+    <string name="str_btnbuscar">Buscar</string>
+    <string name="str_btnregistrar">Registrar</string>
+    <string name="str_btnlistar">Listar</string>
+
+    <string name="str_titulo">Título</string>
+    <string name="str_subtitulo">Subtítulo</string>
+    <string name="str_isbn">ISBN</string>
+    <string name="str_autor">Autor</string>
+    <string name="str_anio_publicacion">Año publicación</string>
+    <string name="str_precio">Precio</string>
+
+    <string name="str_descripon_imagen">Todo</string>
+    <string name="str_listarlibros"> Libros </string>
+    <string name="str_gestionlibros">Descripción libro </string>
+    <string name="str_buscarlibros">Buscar libro</string>
+    <string name="str_digitetitulo">Escriba el título del libro</string>
+
+    <string name="str_btnguardar">Guardar</string>
+    <string name="str_btnseleccionarfoto">Agregar imagen</string>
+    <string name="str_btncambiarfoto">Modificar imagen</string>
+    <string name="str_btnactualizar">Actualizar</string>
+    <string name="str_btnborrar">Borrar</string>
+
+    <string name="str_imagepreview">Imagen seleccionada:</string>
+    <string name="str_imagenactual">Imagen actual:</string>
+
+
+    <string name="str_mensajeinicio">Biblioteca virtual</string>
+    <string name="str_mensajeinicio2">¿Qué desea hacer?</string>
+
+    <string name="version">1.0.0</string>
+    <string name="ver_m_s">Ver más</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="home">Home</string>
+    <string name="registrar">Registrar</string>
+    <string name="buscar">Buscar</string>
+    <string name="mapa">Mapa</string>
+
+    <string name="google_maps_api_key">${GOOGLE_MAPS_API_KEY}</string>
+    <string name="autocompletar">Autocompletar</string>
+    <string name="generar_qr">Generar QR</string>
+    <string name="escanear">Escanear</string>
+
+    <string name="splash_tagline">Tu biblioteca digital</string>
+    <string name="splash_animation_desc">Animación bienvenida</string>
+    <string name="loading_desc">Cargando</string>
+</resources>

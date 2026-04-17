@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Persistencia2a" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/splash_background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/splash_text_primary</item>
+    </style>
+
+    <style name="Theme.Persistencia2a" parent="Base.Theme.Persistencia2a" />
+
+    <style name="SearchViewStyle">
+        <item name="android:editTextColor">@color/splash_text_primary</item>
+        <item name="android:textColorHint">@color/splash_text_hint</item>
+        <item name="android:colorControlNormal">@color/splash_text_secondary</item>
+        <item name="colorControlNormal">@color/splash_text_secondary</item>
+    </style>
+
+    <style name="BottomNavStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+
+</resources>

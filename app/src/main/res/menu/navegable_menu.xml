@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_list"
+        android:icon="@drawable/ic_menu_book"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_register"
+        android:icon="@drawable/add_circle"
+        android:title="@string/registrar"
+        />
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/ic_menu_qr"
+        android:title="@string/escanear"/>
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_menu_map"
+        android:title="@string/mapa"/>
+</menu>
